@@ -1,5 +1,5 @@
-Windows 8 Addition Sample App
-=============================
+Windows 8 Mobile Addition Sample App
+====================================
 
 Source code for an addition app built for Windows 8 Mobile.
 
